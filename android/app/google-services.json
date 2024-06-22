@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740060668791",
+    "project_id": "sans-ai",
+    "storage_bucket": "sans-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740060668791:android:3c60b1d888a692597a3772",
+        "android_client_info": {
+          "package_name": "com.example.sansai_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD8rc4aCdncJpA0BfzJV11ix8xglTlXAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
